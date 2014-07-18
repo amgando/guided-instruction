@@ -1,8 +1,6 @@
-guided-instruction
-==================
+## guided instruction and worked examples
 
 some reading, notes and examples of my interpretation guided instruction and worked examples for DBC challenges
-
 
 ---
 
